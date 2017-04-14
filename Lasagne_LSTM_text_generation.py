@@ -1,6 +1,6 @@
 # coding: utf-8
 
-# Imports
+# Imports libraries
 
 import os
 import cPickle
