@@ -17,6 +17,8 @@ https://github.com/karpathy/char-rnn (char-to-char) - Torch implemetation by And
 
 https://github.com/larspars/word-rnn (wordRNN) - Torch implemetation by Andrej Karpathy
 
+https://github.com/ppramesi/RoboTrumpDNN - Keras text generation
+
 
 
 
